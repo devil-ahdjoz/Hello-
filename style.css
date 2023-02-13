@@ -424,6 +424,23 @@ div { position: absolute; }
 	height: 1247px;
 }
 
+.btn .primary{
+    background: linear-gradient(#ff9e80, #ff8a80);
+    box-shadow: 0 2px 15px #ea7070;
+    color: #fff;
+}
+.btn button{
+    padding: 7px 30px;
+	margin-top: 950px;
+    margin-left: 400px;
+    outline: none;
+    border: 1px solid #ea7070;
+    border-radius: 20px;
+    cursor: pointer;
+    color:  #ea7070;
+    background: transparent;
+    font-size: 20px;
+}
 
 #img_20221010_201156_361 {
 	top: 277px;
